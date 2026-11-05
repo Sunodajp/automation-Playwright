@@ -1,6 +1,6 @@
 QA - Automação Web com Playwright
 
-Projeto de portfólio - Testes E2E no site Automation Exercise
+ Testes E2E no site Automation Exercise
 
 Cenários
 1. Login válido
